@@ -166,6 +166,8 @@
 
 | Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   0   |    우아한 테크 코스 2기 지원, 프리코스, 오프라인 코딩테스트 후기  |[블로그로 이동](https://ssoco.tistory.com/54?category=748722)|-|
+https://ssoco.tistory.com/54?category=748722
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/jnsorn/woowa-writing-2/blob/jnsorn/archive/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/38) |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/jnsorn/woowa-writing-2/blob/jnsorn/archive/level2.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/98) |
 |   3   |    팀 프로젝트가 나에게 남긴 것     |[woowa-writing-2/level3](https://github.com/jnsorn/woowa-writing-2/blob/jnsorn/archive/level3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/129)|
