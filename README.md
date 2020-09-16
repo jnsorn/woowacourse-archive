@@ -1,21 +1,21 @@
 # 🚀 woowacourse-archive
 우아한테크코스에서 활동한 내용을 정리합니다.
 
-### _우아한 일대기 (Table of Contents)_
+### _우아한 일대기_
 각 이모지를 클릭하면 해당 섹션으로 이동할 수 있습니다.
 
-1. [Level 0 : 프리코스](#level0) 
-   - [🎯](#) 온라인 미션
+1. Level 0 : 프리코스
+   - [🎯](#level0) 온라인 미션
    - [💻](#) 오프라인 코딩테스트
    - [📝](#) 우아한 테크 코스 2기 지원, 프리코스, 오프라인 코딩테스트 후기
    
-2. [Level 1 : 프로그래밍 기본](#level1)
-    - [🎯](#) 미션
+2. Level 1 : 프로그래밍 기본
+    - [🎯](#level1) 미션
     - [📖](#) 스터디 : 모던 자바 인 액션
     - [📝](#) 우아한테크코스 한 달 생활기 - 순간의 기록
     
-3. [Level 2 : 웹 프로그래밍](#level2)
-    - [🎯](#) 미션
+3. Level 2 : 웹 프로그래밍
+    - [🎯](#level2) 미션
     - [📖](#) 스터디 : 개발자가 반드시 정복해야 할 객체지향과 디자인 패턴
     - [📖](#) 스터디 : Spring5 프로그래밍 입문
     - [🎤](#) 테코톡 : 스프링과 스프링부트
@@ -23,17 +23,17 @@
     - [🤝🏻](#) 사이드 프로젝트 : SUPP 베타 버전 배포
     - [📝](#) 우아한테크코스에서 찾은 나만의 효과적인 공부법 - 함께 자라기
     
-4. [Level 3 : 팀 프로젝트](#level3)
+4. Level 3 : 팀 프로젝트
     - [🐳](#) 직고래 - 조직중고거래
     - [🎤](#) CI/CD발표
     - [🤝](#) 사이드 프로젝트 SUPP 정식 버전 배포
     - [📝](#) 팀 프로젝트가 나에게 남긴 것 - 셀러리 컴퍼니 팀원 또링 
-4. [Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
-](#level4)
+4. Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
+    - [🎯](#level4) 미션
     - [🐳](#) 직고래 - 조직중고거래
-    - [🎯](#) 미션
 
 --- 
+# 미션
 ## 🐣 Level 0 : 프리코스<a name="level0"></a>
 ### 기간
 2019.11.27 ~ 2019.12.21
@@ -48,7 +48,6 @@
 <br/>
 
 ## Level 1 : 프로그래밍 기본<a name="level1"></a>
-기간
 ### 기간
 
 - 2020.02.04 ~ 2020.04.10
@@ -66,12 +65,12 @@
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  문자열 계산기   | [java-calculator](https://github.com/jnsorn/java-calculator/tree/onboarding) | [reviewed by 홍시](https://github.com/woowacourse/java-calculator/pull/37) |
 | 자동차 경주 게임 |  [java-racingcar](https://github.com/jnsorn/java-racingcar/tree/develop)  | [reviewed by Dave](https://github.com/woowacourse/java-racingcar/pull/81) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/jnsorn/java-lotto/tree/jnsorn) | [reviewed by kingbbode](https://github.com/woowacourse/java-lotto/pull/162) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/jnsorn/java-lotto/tree/lotto-manual) | [reviewed by kingbbode](https://github.com/woowacourse/java-lotto/pull/198) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/jnsorn/java-blackjack/tree/jnsorn) | [reviewed by 하비](https://github.com/woowacourse/java-blackjack/pull/22) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/jnsorn/java-blackjack/tree/version2) | [reviewed by 하비](https://github.com/woowacourse/java-blackjack/pull/68) |
-|   체스 / step1~3  | [java-chess/step1~3](https://github.com/jnsorn/java-chess/tree/step1) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/63) |
-|   체스 / step4~5   | [java-chess/step4~5](https://github.com/jnsorn/java-chess/tree/step2) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/155) |
+|   로또 - 1단계   | [java-lotto/step1](https://github.com/jnsorn/java-lotto/tree/jnsorn) | [reviewed by kingbbode](https://github.com/woowacourse/java-lotto/pull/162) |
+|   로또 - 2단계   | [java-lotto/step2](https://github.com/jnsorn/java-lotto/tree/lotto-manual) | [reviewed by kingbbode](https://github.com/woowacourse/java-lotto/pull/198) |
+|  블랙잭 - 1단계  | [java-blackjack/step1](https://github.com/jnsorn/java-blackjack/tree/jnsorn) | [reviewed by 하비](https://github.com/woowacourse/java-blackjack/pull/22) |
+|  블랙잭 - 2단계  | [java-blackjack/step2](https://github.com/jnsorn/java-blackjack/tree/version2) | [reviewed by 하비](https://github.com/woowacourse/java-blackjack/pull/68) |
+|   체스 - 1~3단계  | [java-chess/step1~3](https://github.com/jnsorn/java-chess/tree/step1) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/63) |
+|   체스 - 4~5단계   [java-chess/step4~5](https://github.com/jnsorn/java-chess/tree/step2) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/155) |
 |   90년생 HTML    |            [html](https://github.com/jnsorn/html/tree/jnsorn)            | [리뷰없음](https://github.com/woowacourse/java-chess/pull/154)  |
 
 <br/>
@@ -93,10 +92,10 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 웹 기반 체스 / step1     | [jwp-chess/step1](https://github.com/jnsorn/jwp-chess/tree/step1) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/52) |
-| 웹 기반 체스 / step2     | [jwp-chess/step2](https://github.com/jnsorn/jwp-chess/tree/jnsorn) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/106) |
-| 웹 기반 체스 / step3     | [jwp-chess/step3](https://github.com/jnsorn/jwp-chess/tree/step3) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/129) |
-| 웹 기반 체스 / step4     | [jwp-chess/step4](https://github.com/jnsorn/jwp-chess/tree/step4) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/163) |
+| 웹 기반 체스 - 1단계     | [jwp-chess/step1](https://github.com/jnsorn/jwp-chess/tree/step1) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/52) |
+| 웹 기반 체스 - 2단계     | [jwp-chess/step2](https://github.com/jnsorn/jwp-chess/tree/jnsorn) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/106) |
+| 웹 기반 체스 - 3단계     | [jwp-chess/step3](https://github.com/jnsorn/jwp-chess/tree/step3) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/129) |
+| 웹 기반 체스 - 4     | [jwp-chess/step4](https://github.com/jnsorn/jwp-chess/tree/step4) | [reviewed by 임루트](https://github.com/woowacourse/jwp-chess/pull/163) |
 |   지하철 정보 관리   | [atdd-subway-admin](https://github.com/jnsorn/atdd-subway-admin/tree/step1) | [reviewed by 홍시](https://github.com/woowacourse/atdd-subway-admin/pull/14) |
 |   지하철 경로 조회   | [atdd-subway-path](https://github.com/jnsorn/atdd-subway-path/tree/step1) | [reviewed by 구구](https://github.com/woowacourse/atdd-subway-path/pull/35) |
 | 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/jnsorn/atdd-subway-favorite/tree/step1) | [reviewed by 재연링](https://github.com/woowacourse/atdd-subway-favorite/pull/2) |
@@ -141,18 +140,18 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 웹 서버 구현 / step1    | [jwp-chess/step1](https://github.com/jnsorn/jwp-was/tree/jnsorn-step1) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/105) |
-| 웹 서버 구현 / step2    | 진행예정 | 진행예정 |
-| 웹 서버 구현 / step3    | 진행예정 | 진행예정 |
-| 웹 서버 구현 / step4    | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 / step1 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 / step2 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 / step3 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 / step4 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 / step5 | 진행예정 | 진행예정 |
+| 웹 서버 구현 - 1단계    | [jwp-chess/step1](https://github.com/jnsorn/jwp-was/tree/jnsorn-step1) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/105) |
+| 웹 서버 구현 - 2단계    | 진행예정 | 진행예정 |
+| 웹 서버 구현 - 3단계    | 진행예정 | 진행예정 |
+| 웹 서버 구현 - 4단계    | 진행예정 | 진행예정 |
+| 점진적인 리팩터링 - 1단계 | 진행예정 | 진행예정 |
+| 점진적인 리팩터링 - 2단계 | 진행예정 | 진행예정 |
+| 점진적인 리팩터링 - 3단계 | 진행예정 | 진행예정 |
+| 점진적인 리팩터링 - 4단계 | 진행예정 | 진행예정 |
+| 점진적인 리팩터링 - 5단계 | 진행예정 | 진행예정 |
 | 안정적인 서비스 만들기 | 진행예정 | - |
 
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+# 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
 ### 발표 주제 : Spring과 Spring Boot
 
@@ -160,7 +159,7 @@
 - Spring🌱 vs SpringBoot🌼 - [블로그](https://ssoco.tistory.com/66)
 <br/>
 
-## 🖋 Writing : 글쓰기 코스
+# 🖋 Writing : 글쓰기 코스
 
 ### 진행 미션
 
@@ -172,7 +171,7 @@
 
 <br/>
 
-## 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
+# 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
 
 ### 서비스
 - [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
