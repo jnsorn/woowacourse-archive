@@ -70,7 +70,7 @@
 |  블랙잭 - 1단계  | [java-blackjack/step1](https://github.com/jnsorn/java-blackjack/tree/jnsorn) | [reviewed by 하비](https://github.com/woowacourse/java-blackjack/pull/22) |
 |  블랙잭 - 2단계  | [java-blackjack/step2](https://github.com/jnsorn/java-blackjack/tree/version2) | [reviewed by 하비](https://github.com/woowacourse/java-blackjack/pull/68) |
 |   체스 - 1~3단계  | [java-chess/step1~3](https://github.com/jnsorn/java-chess/tree/step1) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/63) |
-|   체스 - 4~5단계   [java-chess/step4~5](https://github.com/jnsorn/java-chess/tree/step2) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/155) |
+|   체스 - 4~5단계  | [java-chess/step4~5](https://github.com/jnsorn/java-chess/tree/step2) | [reviewed by 구구](https://github.com/woowacourse/java-chess/pull/155) |
 |   90년생 HTML    |            [html](https://github.com/jnsorn/html/tree/jnsorn)            | [리뷰없음](https://github.com/woowacourse/java-chess/pull/154)  |
 
 <br/>
@@ -140,7 +140,7 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 웹 서버 구현 - 1단계    | [jwp-chess/step1](https://github.com/jnsorn/jwp-was/tree/jnsorn-step1) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/105) |
+| 웹 서버 구현 - 1단계    | [jwp-was/step1](https://github.com/jnsorn/jwp-was/tree/jnsorn-step1) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/105) |
 | 웹 서버 구현 - 2단계    | 진행예정 | 진행예정 |
 | 웹 서버 구현 - 3단계    | 진행예정 | 진행예정 |
 | 웹 서버 구현 - 4단계    | 진행예정 | 진행예정 |
@@ -181,5 +181,19 @@
 ### Source code
 - [supp](https://github.com/woowa-supp/supp)
 - [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
+
+<br/>
+
+# 🐳 직고래 : 조직 중고 거래
+_당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래._
+
+### 서비스
+- [직고래 소개영상](https://www.youtube.com/watch?v=ECl14dt7sQU)
+- [안드로이드 어플](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
+- [API문서](https://sellerlee.tk/privacy)
+- [개인정보처리방침](https://sellerlee.tk/privacy)
+
+### Source code
+- [Github](https://github.com/woowacourse-teams/2020-seller-lee-company)
 
 <br/>
