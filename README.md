@@ -33,8 +33,9 @@
     - [🐳](#) 직고래 - 조직중고거래
 
 --- 
-# 미션
-## 🐣 Level 0 : 프리코스<a name="level0"></a>
+
+# 🎯 미션
+## Level 0 : 프리코스<a name="level0"></a>
 ### 기간
 2019.11.27 ~ 2019.12.21
 ### 진행 미션
@@ -159,7 +160,7 @@
 - Spring🌱 vs SpringBoot🌼 - [블로그](https://ssoco.tistory.com/66)
 <br/>
 
-# 🖋 Writing : 글쓰기 코스
+# 📝 Writing : 글쓰기 코스
 
 ### 진행 미션
 
@@ -171,12 +172,14 @@
 
 <br/>
 
-# 👋🏻 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
+# 사이드 프로젝트
+## 🤝 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
 
 ### 서비스
 - [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
 - [SUPP Homepage](https://d10qlfpm4ciz64.cloudfront.net/)
 - [SUPP Chrome Extension](https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)
+- [서비스 출시 발표 및 회고](https://www.youtube.com/watch?v=ndVYCPm-LH4)
 
 ### Source code
 - [supp](https://github.com/woowa-supp/supp)
@@ -184,7 +187,8 @@
 
 <br/>
 
-# 🐳 직고래 : 조직 중고 거래
+# 팀 프로젝트(Level3~4)
+## 🐳 직고래 : 조직 중고 거래
 _당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래._
 
 ### 서비스
@@ -196,4 +200,8 @@ _당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 
 ### Source code
 - [Github](https://github.com/woowacourse-teams/2020-seller-lee-company)
 
+### 발표자료
+- [팀문화 소개](https://www.youtube.com/watch?v=JPmA2tIt8ME)
+- [CI/CD 및 Logging](https://www.youtube.com/watch?v=67TDNiSYRTM)
+- [Level3 최종 발표](https://www.youtube.com/watch?v=shq5CLRWB_I)
 <br/>
