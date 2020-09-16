@@ -6,31 +6,31 @@
 
 1. Level 0 : 프리코스
    - [🎯](#level0) 온라인 미션
-   - [💻](#) 오프라인 코딩테스트
-   - [📝](#) 우아한 테크 코스 2기 지원, 프리코스, 오프라인 코딩테스트 후기
+   - [💻](#level0) 오프라인 코딩테스트
+   - [📝](#writing) 우아한 테크 코스 2기 지원, 프리코스, 오프라인 코딩테스트 후기
    
 2. Level 1 : 프로그래밍 기본
     - [🎯](#level1) 미션
     - [📖](#) 스터디 : 모던 자바 인 액션
-    - [📝](#) 우아한테크코스 한 달 생활기 - 순간의 기록
+    - [📝](#writing) 우아한테크코스 한 달 생활기 - 순간의 기록
     
 3. Level 2 : 웹 프로그래밍
     - [🎯](#level2) 미션
     - [📖](#) 스터디 : 개발자가 반드시 정복해야 할 객체지향과 디자인 패턴
     - [📖](#) 스터디 : Spring5 프로그래밍 입문
-    - [🎤](#) 테코톡 : 스프링과 스프링부트
+    - [🎤](#tecotalk) 테코톡 : 스프링과 스프링부트
     - [🎥](#) 인터뷰 : 우아한테크인터뷰 - 또링
-    - [🤝🏻](#) 사이드 프로젝트 : SUPP 베타 버전 배포
-    - [📝](#) 우아한테크코스에서 찾은 나만의 효과적인 공부법 - 함께 자라기
+    - [🤝🏻](#supp) 사이드 프로젝트 : SUPP 베타 버전 배포
+    - [📝](#writing) 우아한테크코스에서 찾은 나만의 효과적인 공부법 - 함께 자라기
     
 4. Level 3 : 팀 프로젝트
-    - [🐳](#) 직고래 - 조직중고거래
-    - [🎤](#) CI/CD발표
-    - [🤝](#) 사이드 프로젝트 SUPP 정식 버전 배포
-    - [📝](#) 팀 프로젝트가 나에게 남긴 것 - 셀러리 컴퍼니 팀원 또링 
+    - [🐳](#jikgorae) 직고래 - 조직중고거래
+    - [🎤](#jikgorae) CI/CD발표
+    - [🤝](#supp) 사이드 프로젝트 SUPP 정식 버전 배포
+    - [📝](#writing) 팀 프로젝트가 나에게 남긴 것 - 셀러리 컴퍼니 팀원 또링 
 4. Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
     - [🎯](#level4) 미션
-    - [🐳](#) 직고래 - 조직중고거래
+    - [🐳](#jikgorae) 직고래 - 조직중고거래
 
 --- 
 
@@ -152,7 +152,7 @@
 | 점진적인 리팩터링 - 5단계 | 진행예정 | 진행예정 |
 | 안정적인 서비스 만들기 | 진행예정 | - |
 
-# 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+# 📹 Tecotalk : 크루들에게 지식을 공유하는 방법<a name="tecotalk"></a>
 
 ### 발표 주제 : Spring과 Spring Boot
 
@@ -160,21 +160,20 @@
 - Spring🌱 vs SpringBoot🌼 - [블로그](https://ssoco.tistory.com/66)
 <br/>
 
-# 📝 Writing : 글쓰기 코스
+# 📝 Writing : 글쓰기 코스<a name="writing"></a>
 
 ### 진행 미션
 
 | Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   0   |    우아한 테크 코스 2기 지원, 프리코스, 오프라인 코딩테스트 후기  |[블로그로 이동](https://ssoco.tistory.com/54?category=748722)|-|
-https://ssoco.tistory.com/54?category=748722
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/jnsorn/woowa-writing-2/blob/jnsorn/archive/level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/38) |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/jnsorn/woowa-writing-2/blob/jnsorn/archive/level2.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/98) |
 |   3   |    팀 프로젝트가 나에게 남긴 것     |[woowa-writing-2/level3](https://github.com/jnsorn/woowa-writing-2/blob/jnsorn/archive/level3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/129)|
 
 <br/>
 
-# 사이드 프로젝트
+# 사이드 프로젝트<a name="supp"></a>
 ## 🤝 SUPP : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
 
 ### 서비스
@@ -189,7 +188,7 @@ https://ssoco.tistory.com/54?category=748722
 
 <br/>
 
-# 팀 프로젝트(Level3~4)
+# 팀 프로젝트(Level3~4)<a name="jikgorae"></a>
 ## 🐳 직고래 : 조직 중고 거래
 _당신이 속한 그룹 어디든 당신이 원하는 것을 사고 파세요. 조직 중고 거래, 직고래._
 
