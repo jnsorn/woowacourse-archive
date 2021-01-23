@@ -142,15 +142,12 @@
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 웹 서버 구현 - 1단계    | [jwp-was/step1](https://github.com/jnsorn/jwp-was/tree/jnsorn-step1) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/105) |
-| 웹 서버 구현 - 2단계    | 진행예정 | 진행예정 |
-| 웹 서버 구현 - 3단계    | 진행예정 | 진행예정 |
-| 웹 서버 구현 - 4단계    | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 - 1단계 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 - 2단계 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 - 3단계 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 - 4단계 | 진행예정 | 진행예정 |
-| 점진적인 리팩터링 - 5단계 | 진행예정 | 진행예정 |
-| 안정적인 서비스 만들기 | 진행예정 | - |
+| 웹 서버 구현 - 2단계    | [jwp-was/step2](https://github.com/jnsorn/jwp-was/tree/jnsorn-step2) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/202) |
+| 웹 서버 구현 - 3단계    | [jwp-was/step3](https://github.com/jnsorn/jwp-was/tree/jnsorn-step3) | [reviewed by 후니](https://github.com/woowacourse/jwp-was/pull/213) |
+| 웹 서버 구현 - 4단계    | [jwp-was/step4](https://github.com/jnsorn/jwp-was/tree/jnsorn-step4) | 해당없음 |
+| 점진적인 리팩터링 - 1단계 | [jwp-refactoring/step1](https://github.com/jnsorn/jwp-refactoring/tree/step1) | [reviewed by 화투](https://github.com/woowacourse/jwp-refactoring/pull/86) |
+| 점진적인 리팩터링 - 2단계 | [jwp-refactoring/step2](https://github.com/jnsorn/jwp-refactoring/tree/step2) | [reviewed by 화투](https://github.com/woowacourse/jwp-refactoring/pull/96) |
+| 점진적인 리팩터링 - 3단계 | [jwp-refactoring/step3](https://github.com/jnsorn/jwp-refactoring/tree/step3) | [reviewed by 화투](https://github.com/woowacourse/jwp-refactoring/pull/96) |
 
 # 📹 Tecotalk : 크루들에게 지식을 공유하는 방법<a name="tecotalk"></a>
 
